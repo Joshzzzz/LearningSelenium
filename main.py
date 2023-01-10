@@ -20,7 +20,7 @@ now=datetime.now()
 #Entry times
 entryMin=now.replace(hour=10,minute=00,second=00)
 entryMax=now.replace(hour=11,minute=00,second=00)
-exitTime=now.replace(hour=18,minute=30,second=00)
+exitTime=now.replace(hour=19,minute=30,second=00)
 
 #login
 def login():
